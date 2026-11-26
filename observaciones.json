@@ -1,0 +1,24 @@
+{
+  "observaciones": [
+    {
+      "caracteristica": "Color",
+      "despuesDelMetodo": "Azul oscuro/morado"
+    },
+    {
+      "caracteristica": "Textura",
+      "despuesDelMetodo": "Pegajoso"
+    },
+    {
+      "caracteristica": "Apariencia",
+      "despuesDelMetodo": "Brillante, gelatinosa, con trozos de fruta"
+    },
+    {
+      "caracteristica": "Consistencia",
+      "despuesDelMetodo": "Suave y untable"
+    },
+    {
+      "caracteristica": "Olor",
+      "despuesDelMetodo": "Dulce y un poco ácido"
+    }
+  ]
+}
